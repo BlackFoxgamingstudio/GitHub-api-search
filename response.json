@@ -1,0 +1,842 @@
+[
+    {
+        "name": "ChatGPTNextWeb/ChatGPT-Next-Web",
+        "url": "https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web"
+    },
+    {
+        "name": "Azure-Samples/azure-search-openai-demo",
+        "url": "https://github.com/Azure-Samples/azure-search-openai-demo"
+    },
+    {
+        "name": "in28minutes/devops-master-class",
+        "url": "https://github.com/in28minutes/devops-master-class"
+    },
+    {
+        "name": "stacksimplify/azure-aks-kubernetes-masterclass",
+        "url": "https://github.com/stacksimplify/azure-aks-kubernetes-masterclass"
+    },
+    {
+        "name": "dotnet-architecture/eShopOnWeb",
+        "url": "https://github.com/dotnet-architecture/eShopOnWeb"
+    },
+    {
+        "name": "microsoft/SmartHotel360-Website",
+        "url": "https://github.com/microsoft/SmartHotel360-Website"
+    },
+    {
+        "name": "pulumi/examples",
+        "url": "https://github.com/pulumi/examples"
+    },
+    {
+        "name": "ToolJet/ToolJet",
+        "url": "https://github.com/ToolJet/ToolJet"
+    },
+    {
+        "name": "microsoft/sample-app-aoai-chatGPT",
+        "url": "https://github.com/microsoft/sample-app-aoai-chatGPT"
+    },
+    {
+        "name": "microsoft/azuredevopslabs",
+        "url": "https://github.com/microsoft/azuredevopslabs"
+    },
+    {
+        "name": "microsoft/azure-pipelines-tasks",
+        "url": "https://github.com/microsoft/azure-pipelines-tasks"
+    },
+    {
+        "name": "ConnectAI-E/feishu-openai",
+        "url": "https://github.com/ConnectAI-E/feishu-openai"
+    },
+    {
+        "name": "microsoft/MLOpsPython",
+        "url": "https://github.com/microsoft/MLOpsPython"
+    },
+    {
+        "name": "microsoft/azurechat",
+        "url": "https://github.com/microsoft/azurechat"
+    },
+    {
+        "name": "Azure-Samples/python-docs-hello-world",
+        "url": "https://github.com/Azure-Samples/python-docs-hello-world"
+    },
+    {
+        "name": "Azure/AzureStack-QuickStart-Templates",
+        "url": "https://github.com/Azure/AzureStack-QuickStart-Templates"
+    },
+    {
+        "name": "Azure/azure-powershell",
+        "url": "https://github.com/Azure/azure-powershell"
+    },
+    {
+        "name": "iam-veeramalla/Azure-zero-to-hero",
+        "url": "https://github.com/iam-veeramalla/Azure-zero-to-hero"
+    },
+    {
+        "name": "openai-translator/openai-translator",
+        "url": "https://github.com/openai-translator/openai-translator"
+    },
+    {
+        "name": "kedacore/keda",
+        "url": "https://github.com/kedacore/keda"
+    },
+    {
+        "name": "Azure/actions-workflow-samples",
+        "url": "https://github.com/Azure/actions-workflow-samples"
+    },
+    {
+        "name": "Azure/bicep",
+        "url": "https://github.com/Azure/bicep"
+    },
+    {
+        "name": "Azure/MachineLearningNotebooks",
+        "url": "https://github.com/Azure/MachineLearningNotebooks"
+    },
+    {
+        "name": "microsoft/MLOps",
+        "url": "https://github.com/microsoft/MLOps"
+    },
+    {
+        "name": "matijagrcic/azurechatgpt",
+        "url": "https://github.com/matijagrcic/azurechatgpt"
+    },
+    {
+        "name": "parse-community/parse-server-example",
+        "url": "https://github.com/parse-community/parse-server-example"
+    },
+    {
+        "name": "Azure/azure-functions-core-tools",
+        "url": "https://github.com/Azure/azure-functions-core-tools"
+    },
+    {
+        "name": "ruoccofabrizio/azure-open-ai-embeddings-qna",
+        "url": "https://github.com/ruoccofabrizio/azure-open-ai-embeddings-qna"
+    },
+    {
+        "name": "Azure/RDS-Templates",
+        "url": "https://github.com/Azure/RDS-Templates"
+    },
+    {
+        "name": "Azure-Samples/azure-voting-app-redis",
+        "url": "https://github.com/Azure-Samples/azure-voting-app-redis"
+    },
+    {
+        "name": "microsoft/TailwindTraders-Backend",
+        "url": "https://github.com/microsoft/TailwindTraders-Backend"
+    },
+    {
+        "name": "undergroundwires/Azure-in-bullet-points",
+        "url": "https://github.com/undergroundwires/Azure-in-bullet-points"
+    },
+    {
+        "name": "ann-afame/DEVOPS-WORLD",
+        "url": "https://github.com/ann-afame/DEVOPS-WORLD"
+    },
+    {
+        "name": "microsoft/ContosoAir",
+        "url": "https://github.com/microsoft/ContosoAir"
+    },
+    {
+        "name": "mikepfeiffer/node-express-azure",
+        "url": "https://github.com/mikepfeiffer/node-express-azure"
+    },
+    {
+        "name": "WolfgangOfner/MicroserviceDemo",
+        "url": "https://github.com/WolfgangOfner/MicroserviceDemo"
+    },
+    {
+        "name": "microsoft/botframework-sdk",
+        "url": "https://github.com/microsoft/botframework-sdk"
+    },
+    {
+        "name": "gohugoio/hugo",
+        "url": "https://github.com/gohugoio/hugo"
+    },
+    {
+        "name": "Azure/ALZ-Bicep",
+        "url": "https://github.com/Azure/ALZ-Bicep"
+    },
+    {
+        "name": "openai/chatgpt-retrieval-plugin",
+        "url": "https://github.com/openai/chatgpt-retrieval-plugin"
+    },
+    {
+        "name": "microsoft/TypeScript-Node-Starter",
+        "url": "https://github.com/microsoft/TypeScript-Node-Starter"
+    },
+    {
+        "name": "MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator",
+        "url": "https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator"
+    },
+    {
+        "name": "Azure-Samples/msdocs-python-flask-webapp-quickstart",
+        "url": "https://github.com/Azure-Samples/msdocs-python-flask-webapp-quickstart"
+    },
+    {
+        "name": "Azure-Samples/contoso-real-estate",
+        "url": "https://github.com/Azure-Samples/contoso-real-estate"
+    },
+    {
+        "name": "microsoft/dotnet-podcasts",
+        "url": "https://github.com/microsoft/dotnet-podcasts"
+    },
+    {
+        "name": "microsoft/computervision-recipes",
+        "url": "https://github.com/microsoft/computervision-recipes"
+    },
+    {
+        "name": "Azure/Enterprise-Scale",
+        "url": "https://github.com/Azure/Enterprise-Scale"
+    },
+    {
+        "name": "benc-uk/python-demoapp",
+        "url": "https://github.com/benc-uk/python-demoapp"
+    },
+    {
+        "name": "microsoft/TailwindTraders-Website",
+        "url": "https://github.com/microsoft/TailwindTraders-Website"
+    },
+    {
+        "name": "Azure/acs-engine",
+        "url": "https://github.com/Azure/acs-engine"
+    },
+    {
+        "name": "mspnp/aks-baseline",
+        "url": "https://github.com/mspnp/aks-baseline"
+    },
+    {
+        "name": "Azure-Samples/serverless-full-stack-apps-azure-sql",
+        "url": "https://github.com/Azure-Samples/serverless-full-stack-apps-azure-sql"
+    },
+    {
+        "name": "microsoft/nlp-recipes",
+        "url": "https://github.com/microsoft/nlp-recipes"
+    },
+    {
+        "name": "Azure/Azure-Lighthouse-samples",
+        "url": "https://github.com/Azure/Azure-Lighthouse-samples"
+    },
+    {
+        "name": "starkfell/100DaysOfIaC",
+        "url": "https://github.com/starkfell/100DaysOfIaC"
+    },
+    {
+        "name": "jesperorb/json-server-heroku",
+        "url": "https://github.com/jesperorb/json-server-heroku"
+    },
+    {
+        "name": "johnthebrit/AzureMasterClass",
+        "url": "https://github.com/johnthebrit/AzureMasterClass"
+    },
+    {
+        "name": "anaibol/awesome-serverless",
+        "url": "https://github.com/anaibol/awesome-serverless"
+    },
+    {
+        "name": "Azure/azure-policy",
+        "url": "https://github.com/Azure/azure-policy"
+    },
+    {
+        "name": "microsoft/python-sample-vscode-flask-tutorial",
+        "url": "https://github.com/microsoft/python-sample-vscode-flask-tutorial"
+    },
+    {
+        "name": "Azure-Samples/blockchain",
+        "url": "https://github.com/Azure-Samples/blockchain"
+    },
+    {
+        "name": "Azure/terraform-azurerm-caf-enterprise-scale",
+        "url": "https://github.com/Azure/terraform-azurerm-caf-enterprise-scale"
+    },
+    {
+        "name": "microsoft/fhir-server",
+        "url": "https://github.com/microsoft/fhir-server"
+    },
+    {
+        "name": "cloudfoundry/bosh",
+        "url": "https://github.com/cloudfoundry/bosh"
+    },
+    {
+        "name": "FlowiseAI/Flowise",
+        "url": "https://github.com/FlowiseAI/Flowise"
+    },
+    {
+        "name": "dotnet-architecture/eShopModernizing",
+        "url": "https://github.com/dotnet-architecture/eShopModernizing"
+    },
+    {
+        "name": "stulzq/azure-openai-proxy",
+        "url": "https://github.com/stulzq/azure-openai-proxy"
+    },
+    {
+        "name": "Azure/caf-terraform-landingzones",
+        "url": "https://github.com/Azure/caf-terraform-landingzones"
+    },
+    {
+        "name": "microsoft/RockPaperScissorsLizardSpock",
+        "url": "https://github.com/microsoft/RockPaperScissorsLizardSpock"
+    },
+    {
+        "name": "Azure/azure-stream-analytics",
+        "url": "https://github.com/Azure/azure-stream-analytics"
+    },
+    {
+        "name": "microsoft/AI",
+        "url": "https://github.com/microsoft/AI"
+    },
+    {
+        "name": "microsoft/chat-copilot",
+        "url": "https://github.com/microsoft/chat-copilot"
+    },
+    {
+        "name": "Netflix/chaosmonkey",
+        "url": "https://github.com/Netflix/chaosmonkey"
+    },
+    {
+        "name": "johnthebrit/DevOpsMC",
+        "url": "https://github.com/johnthebrit/DevOpsMC"
+    },
+    {
+        "name": "azure-ad-b2c/samples",
+        "url": "https://github.com/azure-ad-b2c/samples"
+    },
+    {
+        "name": "Azure-Samples/app-service-web-dotnet-get-started",
+        "url": "https://github.com/Azure-Samples/app-service-web-dotnet-get-started"
+    },
+    {
+        "name": "MicrosoftDocs/pipelines-azureml",
+        "url": "https://github.com/MicrosoftDocs/pipelines-azureml"
+    },
+    {
+        "name": "lukemurraynz/awesome-azure-architecture",
+        "url": "https://github.com/lukemurraynz/awesome-azure-architecture"
+    },
+    {
+        "name": "RadoslavGatev/Ghost-Azure",
+        "url": "https://github.com/RadoslavGatev/Ghost-Azure"
+    },
+    {
+        "name": "Azure-Samples/msdocs-app-service-sqldb-dotnetcore",
+        "url": "https://github.com/Azure-Samples/msdocs-app-service-sqldb-dotnetcore"
+    },
+    {
+        "name": "shuaibiyy/awesome-tf",
+        "url": "https://github.com/shuaibiyy/awesome-tf"
+    },
+    {
+        "name": "thomast1906/DevOps-Journey-Using-Azure-DevOps",
+        "url": "https://github.com/thomast1906/DevOps-Journey-Using-Azure-DevOps"
+    },
+    {
+        "name": "bridgecrewio/terragoat",
+        "url": "https://github.com/bridgecrewio/terragoat"
+    },
+    {
+        "name": "mckaywrigley/chatbot-ui",
+        "url": "https://github.com/mckaywrigley/chatbot-ui"
+    },
+    {
+        "name": "microsoft/AzUrlShortener",
+        "url": "https://github.com/microsoft/AzUrlShortener"
+    },
+    {
+        "name": "Azure-Samples/cosmosdb-chatgpt",
+        "url": "https://github.com/Azure-Samples/cosmosdb-chatgpt"
+    },
+    {
+        "name": "Azure/business-process-automation",
+        "url": "https://github.com/Azure/business-process-automation"
+    },
+    {
+        "name": "microsoft/bash-for-beginners",
+        "url": "https://github.com/microsoft/bash-for-beginners"
+    },
+    {
+        "name": "milanm/DevOps-Roadmap",
+        "url": "https://github.com/milanm/DevOps-Roadmap"
+    },
+    {
+        "name": "openchatai/OpenChat",
+        "url": "https://github.com/openchatai/OpenChat"
+    },
+    {
+        "name": "microsoft/vscode-docker",
+        "url": "https://github.com/microsoft/vscode-docker"
+    },
+    {
+        "name": "HoussemDellai/ProductsStoreOnKubernetes",
+        "url": "https://github.com/HoussemDellai/ProductsStoreOnKubernetes"
+    },
+    {
+        "name": "Azure/azure-devtestlab",
+        "url": "https://github.com/Azure/azure-devtestlab"
+    },
+    {
+        "name": "microsoft/AzureMonitorCommunity",
+        "url": "https://github.com/microsoft/AzureMonitorCommunity"
+    },
+    {
+        "name": "Azure-Samples/azure-search-openai-demo-csharp",
+        "url": "https://github.com/Azure-Samples/azure-search-openai-demo-csharp"
+    },
+    {
+        "name": "Azure-Samples/container-apps-store-api-microservice",
+        "url": "https://github.com/Azure-Samples/container-apps-store-api-microservice"
+    },
+    {
+        "name": "microsoft/MCW-Cloud-native-applications",
+        "url": "https://github.com/microsoft/MCW-Cloud-native-applications"
+    },
+    {
+        "name": "TBXark/ChatGPT-Telegram-Workers",
+        "url": "https://github.com/TBXark/ChatGPT-Telegram-Workers"
+    },
+    {
+        "name": "Azure/application-gateway-kubernetes-ingress",
+        "url": "https://github.com/Azure/application-gateway-kubernetes-ingress"
+    },
+    {
+        "name": "kubernetes-sigs/kubespray",
+        "url": "https://github.com/kubernetes-sigs/kubespray"
+    }
+]{
+    "detail": "Client error '422 Unprocessable Entity' for url 'https://api.github.com/search/repositories?q=&per_page=10&page=1'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/422"
+}[
+    {
+        "name": "dmauser/opnazure",
+        "url": "https://github.com/dmauser/opnazure"
+    },
+    {
+        "name": "Azure/terraform-azurerm-network-security-group",
+        "url": "https://github.com/Azure/terraform-azurerm-network-security-group"
+    },
+    {
+        "name": "kumarvna/terraform-azurerm-virtual-machine",
+        "url": "https://github.com/kumarvna/terraform-azurerm-virtual-machine"
+    },
+    {
+        "name": "helderpinto/AzureOptimizationEngine",
+        "url": "https://github.com/helderpinto/AzureOptimizationEngine"
+    },
+    {
+        "name": "jakewalsh90/Terraform-Azure",
+        "url": "https://github.com/jakewalsh90/Terraform-Azure"
+    },
+    {
+        "name": "kumarvna/terraform-azurerm-vnet",
+        "url": "https://github.com/kumarvna/terraform-azurerm-vnet"
+    },
+    {
+        "name": "erjosito/azure-networking-lab",
+        "url": "https://github.com/erjosito/azure-networking-lab"
+    },
+    {
+        "name": "rkuehfus/AzureMonitoringHackathon",
+        "url": "https://github.com/rkuehfus/AzureMonitoringHackathon"
+    },
+    {
+        "name": "aquasecurity/cloud-security-remediation-guides",
+        "url": "https://github.com/aquasecurity/cloud-security-remediation-guides"
+    },
+    {
+        "name": "Azure/aks-baseline-automation",
+        "url": "https://github.com/Azure/aks-baseline-automation"
+    },
+    {
+        "name": "op7ic/BlueTeam.Lab",
+        "url": "https://github.com/op7ic/BlueTeam.Lab"
+    },
+    {
+        "name": "davisanc/AzureSecurityLabs",
+        "url": "https://github.com/davisanc/AzureSecurityLabs"
+    },
+    {
+        "name": "mofaizal/Azure-Terraform",
+        "url": "https://github.com/mofaizal/Azure-Terraform"
+    },
+    {
+        "name": "kumarvna/terraform-azurerm-caf-virtual-network-spoke",
+        "url": "https://github.com/kumarvna/terraform-azurerm-caf-virtual-network-spoke"
+    },
+    {
+        "name": "rkuehfus/pre-ready-2019-H1",
+        "url": "https://github.com/rkuehfus/pre-ready-2019-H1"
+    },
+    {
+        "name": "kumarvna/terraform-azurerm-caf-virtual-network-hub",
+        "url": "https://github.com/kumarvna/terraform-azurerm-caf-virtual-network-hub"
+    },
+    {
+        "name": "Azure/vagrant-azure",
+        "url": "https://github.com/Azure/vagrant-azure"
+    },
+    {
+        "name": "erjosito/ansible-azure-lab",
+        "url": "https://github.com/erjosito/ansible-azure-lab"
+    },
+    {
+        "name": "PieterbasNagengast/Azure-HubSpoke-LabBuilder",
+        "url": "https://github.com/PieterbasNagengast/Azure-HubSpoke-LabBuilder"
+    },
+    {
+        "name": "kumarvna/terraform-azurerm-vm-scale-sets",
+        "url": "https://github.com/kumarvna/terraform-azurerm-vm-scale-sets"
+    },
+    {
+        "name": "azurecitadel/azure-security-lab",
+        "url": "https://github.com/azurecitadel/azure-security-lab"
+    },
+    {
+        "name": "claranet/terraform-azurerm-app-gateway",
+        "url": "https://github.com/claranet/terraform-azurerm-app-gateway"
+    },
+    {
+        "name": "fguerri/AzureVNetIntegrationPatterns",
+        "url": "https://github.com/fguerri/AzureVNetIntegrationPatterns"
+    },
+    {
+        "name": "avinor/terraform-azurerm-virtual-network-hub",
+        "url": "https://github.com/avinor/terraform-azurerm-virtual-network-hub"
+    },
+    {
+        "name": "Araffe/azure-security-lab",
+        "url": "https://github.com/Araffe/azure-security-lab"
+    },
+    {
+        "name": "paolosalvatori/front-door-apim",
+        "url": "https://github.com/paolosalvatori/front-door-apim"
+    },
+    {
+        "name": "Azure/AzureVM",
+        "url": "https://github.com/Azure/AzureVM"
+    },
+    {
+        "name": "Azure/terraform-azurerm-vm",
+        "url": "https://github.com/Azure/terraform-azurerm-vm"
+    },
+    {
+        "name": "mspnp/aks-baseline-regulated",
+        "url": "https://github.com/mspnp/aks-baseline-regulated"
+    },
+    {
+        "name": "sdcscripts/terraform-az-firewallnva",
+        "url": "https://github.com/sdcscripts/terraform-az-firewallnva"
+    },
+    {
+        "name": "mevijays/training-azure",
+        "url": "https://github.com/mevijays/training-azure"
+    },
+    {
+        "name": "Azure/terraform-azurerm-compute",
+        "url": "https://github.com/Azure/terraform-azurerm-compute"
+    },
+    {
+        "name": "Ditectrev/Microsoft-Azure-AZ-900-Microsoft-Azure-Fundamentals-Practice-Tests-Exams-Questions-Answers",
+        "url": "https://github.com/Ditectrev/Microsoft-Azure-AZ-900-Microsoft-Azure-Fundamentals-Practice-Tests-Exams-Questions-Answers"
+    },
+    {
+        "name": "pietheinstrengholt/az-303-304-Microsoft-Azure-Architect-Design-Exam-Notes",
+        "url": "https://github.com/pietheinstrengholt/az-303-304-Microsoft-Azure-Architect-Design-Exam-Notes"
+    },
+    {
+        "name": "jaredhaight/PowerShellClassLab",
+        "url": "https://github.com/jaredhaight/PowerShellClassLab"
+    },
+    {
+        "name": "ChristopherGLewis/vNet-Bicep",
+        "url": "https://github.com/ChristopherGLewis/vNet-Bicep"
+    },
+    {
+        "name": "ghostinthewires/Azure-Readiness-Checklist",
+        "url": "https://github.com/ghostinthewires/Azure-Readiness-Checklist"
+    },
+    {
+        "name": "Azure/terraform-azurerm-vnet",
+        "url": "https://github.com/Azure/terraform-azurerm-vnet"
+    },
+    {
+        "name": "FreddyAyala/AzureAIServicesLandingZone",
+        "url": "https://github.com/FreddyAyala/AzureAIServicesLandingZone"
+    },
+    {
+        "name": "kumarvna/terraform-azurerm-active-directory-forest",
+        "url": "https://github.com/kumarvna/terraform-azurerm-active-directory-forest"
+    },
+    {
+        "name": "microsoft/AzStackHCISandbox",
+        "url": "https://github.com/microsoft/AzStackHCISandbox"
+    },
+    {
+        "name": "Araffe/vdc-networking-lab",
+        "url": "https://github.com/Araffe/vdc-networking-lab"
+    },
+    {
+        "name": "oyuksektepeli/AzureChamp",
+        "url": "https://github.com/oyuksektepeli/AzureChamp"
+    },
+    {
+        "name": "jhirono/amlsecurity",
+        "url": "https://github.com/jhirono/amlsecurity"
+    },
+    {
+        "name": "rajanbhayana/AzureScaffoldingHubAndSpokeTemplate",
+        "url": "https://github.com/rajanbhayana/AzureScaffoldingHubAndSpokeTemplate"
+    },
+    {
+        "name": "fdicarlo/AZ-900",
+        "url": "https://github.com/fdicarlo/AZ-900"
+    },
+    {
+        "name": "Azure/azurehpc",
+        "url": "https://github.com/Azure/azurehpc"
+    },
+    {
+        "name": "microsoft/HighSecurityAPIM",
+        "url": "https://github.com/microsoft/HighSecurityAPIM"
+    },
+    {
+        "name": "mrik23/70-533-Implementing-Microsoft-Azure-Infrastructure-Solutions-Exam-Prep",
+        "url": "https://github.com/mrik23/70-533-Implementing-Microsoft-Azure-Infrastructure-Solutions-Exam-Prep"
+    },
+    {
+        "name": "claranet/terraform-azurerm-nsg",
+        "url": "https://github.com/claranet/terraform-azurerm-nsg"
+    },
+    {
+        "name": "microsoft/AMLSDKRModelsOperationalization",
+        "url": "https://github.com/microsoft/AMLSDKRModelsOperationalization"
+    },
+    {
+        "name": "venura9/manage-nsg",
+        "url": "https://github.com/venura9/manage-nsg"
+    },
+    {
+        "name": "ricmmartins/apache-guacamole-azure",
+        "url": "https://github.com/ricmmartins/apache-guacamole-azure"
+    },
+    {
+        "name": "kevinevans1/azure-terrafy-walkthrough",
+        "url": "https://github.com/kevinevans1/azure-terrafy-walkthrough"
+    },
+    {
+        "name": "erjosito/segmentation-iac",
+        "url": "https://github.com/erjosito/segmentation-iac"
+    },
+    {
+        "name": "phillipgibson/Cloud-Azure-AKS-Using-AFD-with-AKS",
+        "url": "https://github.com/phillipgibson/Cloud-Azure-AKS-Using-AFD-with-AKS"
+    },
+    {
+        "name": "mohamedsaif/AKS-Adv-Provision",
+        "url": "https://github.com/mohamedsaif/AKS-Adv-Provision"
+    },
+    {
+        "name": "dmauser/azure-gateway-lb",
+        "url": "https://github.com/dmauser/azure-gateway-lb"
+    },
+    {
+        "name": "kumarvna/terraform-azurerm-redis",
+        "url": "https://github.com/kumarvna/terraform-azurerm-redis"
+    },
+    {
+        "name": "matthew-dupre/azure-arm-nsg-via-csv",
+        "url": "https://github.com/matthew-dupre/azure-arm-nsg-via-csv"
+    },
+    {
+        "name": "andreipintica/azure-terrafy-handsonlab",
+        "url": "https://github.com/andreipintica/azure-terrafy-handsonlab"
+    },
+    {
+        "name": "benc-uk/armview-vscode",
+        "url": "https://github.com/benc-uk/armview-vscode"
+    },
+    {
+        "name": "claranet/terraform-azurerm-windows-vm",
+        "url": "https://github.com/claranet/terraform-azurerm-windows-vm"
+    },
+    {
+        "name": "sdcscripts/terraform-az-privatelink-sqldb",
+        "url": "https://github.com/sdcscripts/terraform-az-privatelink-sqldb"
+    },
+    {
+        "name": "paolosalvatori/private-endpoints-topologies",
+        "url": "https://github.com/paolosalvatori/private-endpoints-topologies"
+    },
+    {
+        "name": "rodrigoffonseca/Azure-Network-Terraform-lab",
+        "url": "https://github.com/rodrigoffonseca/Azure-Network-Terraform-lab"
+    },
+    {
+        "name": "op7ic/Cloud-Investigate",
+        "url": "https://github.com/op7ic/Cloud-Investigate"
+    },
+    {
+        "name": "claranet/terraform-azurerm-linux-vm",
+        "url": "https://github.com/claranet/terraform-azurerm-linux-vm"
+    },
+    {
+        "name": "dwyl/learn-microsoft-azure",
+        "url": "https://github.com/dwyl/learn-microsoft-azure"
+    },
+    {
+        "name": "masseydigital/az-900-exam-prep",
+        "url": "https://github.com/masseydigital/az-900-exam-prep"
+    },
+    {
+        "name": "Azure-Samples/aks-nat-agic",
+        "url": "https://github.com/Azure-Samples/aks-nat-agic"
+    },
+    {
+        "name": "stuti24m/Azure-CLI-and-ARM-Templates",
+        "url": "https://github.com/stuti24m/Azure-CLI-and-ARM-Templates"
+    },
+    {
+        "name": "Azure-Samples/http-trigger-azure-function-premium-plan",
+        "url": "https://github.com/Azure-Samples/http-trigger-azure-function-premium-plan"
+    },
+    {
+        "name": "Danieleg82/AzFireWallPremium-MH",
+        "url": "https://github.com/Danieleg82/AzFireWallPremium-MH"
+    },
+    {
+        "name": "jbinko/AZ-300-Microsoft-Azure-Architect-Technologies",
+        "url": "https://github.com/jbinko/AZ-300-Microsoft-Azure-Architect-Technologies"
+    },
+    {
+        "name": "BMichaelJ/Microsoft-Azure-Exams-Tips",
+        "url": "https://github.com/BMichaelJ/Microsoft-Azure-Exams-Tips"
+    },
+    {
+        "name": "narayankumargupta/Common-Design-Principles-for-a-Hub-and-Spoke-VNET-Archiecture",
+        "url": "https://github.com/narayankumargupta/Common-Design-Principles-for-a-Hub-and-Spoke-VNET-Archiecture"
+    },
+    {
+        "name": "Azure/uk-official-three-tier-webapp",
+        "url": "https://github.com/Azure/uk-official-three-tier-webapp"
+    },
+    {
+        "name": "Danieleg82/AzureVPN-NAT",
+        "url": "https://github.com/Danieleg82/AzureVPN-NAT"
+    },
+    {
+        "name": "alexclass/guacamole",
+        "url": "https://github.com/alexclass/guacamole"
+    },
+    {
+        "name": "paolosalvatori/azure-functions-private-endpoint-http-trigger",
+        "url": "https://github.com/paolosalvatori/azure-functions-private-endpoint-http-trigger"
+    },
+    {
+        "name": "azuregomez/SecureApp",
+        "url": "https://github.com/azuregomez/SecureApp"
+    },
+    {
+        "name": "NillsF/NSG-CSV-to-ARM",
+        "url": "https://github.com/NillsF/NSG-CSV-to-ARM"
+    },
+    {
+        "name": "rodrigofre/az900-studynotes",
+        "url": "https://github.com/rodrigofre/az900-studynotes"
+    },
+    {
+        "name": "bgauduch/terraform-azure-swarm-cluster-iac",
+        "url": "https://github.com/bgauduch/terraform-azure-swarm-cluster-iac"
+    },
+    {
+        "name": "torosgo/kubernetes-azure-kubeadm",
+        "url": "https://github.com/torosgo/kubernetes-azure-kubeadm"
+    },
+    {
+        "name": "mspnp/aks-jumpbox-imagebuilder",
+        "url": "https://github.com/mspnp/aks-jumpbox-imagebuilder"
+    },
+    {
+        "name": "mimergel/sap-hana-vm",
+        "url": "https://github.com/mimergel/sap-hana-vm"
+    },
+    {
+        "name": "Jayvardhan-Reddy/Azure-Certification-DP-201",
+        "url": "https://github.com/Jayvardhan-Reddy/Azure-Certification-DP-201"
+    },
+    {
+        "name": "msdirtbag/AzureDiagnosticSettings",
+        "url": "https://github.com/msdirtbag/AzureDiagnosticSettings"
+    },
+    {
+        "name": "Azure-Samples/azuresandbox",
+        "url": "https://github.com/Azure-Samples/azuresandbox"
+    },
+    {
+        "name": "Azure/AVDBlueprint",
+        "url": "https://github.com/Azure/AVDBlueprint"
+    },
+    {
+        "name": "fguerri/internet-outbound-microhack",
+        "url": "https://github.com/fguerri/internet-outbound-microhack"
+    },
+    {
+        "name": "azuregomez/paloalto-ha-hub",
+        "url": "https://github.com/azuregomez/paloalto-ha-hub"
+    },
+    {
+        "name": "vmisson/terraform-azure-firewall",
+        "url": "https://github.com/vmisson/terraform-azure-firewall"
+    },
+    {
+        "name": "johnthebrit/MasterIaaS2019",
+        "url": "https://github.com/johnthebrit/MasterIaaS2019"
+    },
+    {
+        "name": "paolosalvatori/azure-firewall-dns-proxy-in-hub-and-spoke",
+        "url": "https://github.com/paolosalvatori/azure-firewall-dns-proxy-in-hub-and-spoke"
+    },
+    {
+        "name": "zeinab-mk/Purview-Deployment-Checklist",
+        "url": "https://github.com/zeinab-mk/Purview-Deployment-Checklist"
+    },
+    {
+        "name": "fabioharams/azsecurityworkshop",
+        "url": "https://github.com/fabioharams/azsecurityworkshop"
+    },
+    {
+        "name": "DatabricksFactory/databricks-migration",
+        "url": "https://github.com/DatabricksFactory/databricks-migration"
+    }
+][
+    {
+        "name": "Ardemius/azure-az900-certification",
+        "url": "https://github.com/Ardemius/azure-az900-certification"
+    },
+    {
+        "name": "gsriramit/Azure-NetSecNinja-WAF",
+        "url": "https://github.com/gsriramit/Azure-NetSecNinja-WAF"
+    },
+    {
+        "name": "flowdopip/azure-apigateway-workshop",
+        "url": "https://github.com/flowdopip/azure-apigateway-workshop"
+    },
+    {
+        "name": "xNero321/B3_Cloud_Azure",
+        "url": "https://github.com/xNero321/B3_Cloud_Azure"
+    },
+    {
+        "name": "tomkirish/AzureSecNotes",
+        "url": "https://github.com/tomkirish/AzureSecNotes"
+    },
+    {
+        "name": "megnergit/Bertelsmann_CloudArchitect_U1",
+        "url": "https://github.com/megnergit/Bertelsmann_CloudArchitect_U1"
+    },
+    {
+        "name": "gro1m/AZ-500-Microsoft-Azure-Security-Technologies",
+        "url": "https://github.com/gro1m/AZ-500-Microsoft-Azure-Security-Technologies"
+    },
+    {
+        "name": "neolin-ms/AzureDocLinks",
+        "url": "https://github.com/neolin-ms/AzureDocLinks"
+    },
+    {
+        "name": "juju4/azure-policy-playground",
+        "url": "https://github.com/juju4/azure-policy-playground"
+    }
+][]
