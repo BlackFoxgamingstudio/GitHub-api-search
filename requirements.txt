@@ -63,8 +63,6 @@ google-cloud-vision==3.4.1
 google-crc32c==1.5.0
 google-resumable-media==2.3.3
 googleapis-common-protos==1.56.4
-# Editable install with no version control (gpt-engineer==0.0.7)
-
 grpcio==1.54.0
 grpcio-status==1.54.0
 gspread==5.5.0
@@ -163,7 +161,6 @@ rich==13.2.0
 rsa==4.7.1
 rudder-sdk-python==2.0.2
 ruff==0.0.272
-scipy==1.9.1
 Send2Trash==1.8.0
 six==1.15.0
 smart-open==5.2.1
