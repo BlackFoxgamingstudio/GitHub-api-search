@@ -330,3 +330,32 @@ Both approaches require URL encoding the query to ensure it's properly formatted
 
 Appending vs. Overwriting response.json
 The >> operator in curl command appends the output to response.json, accumulating results over multiple runs. If you prefer to overwrite the file with each run, use > instead.s
+
+
+git add .
+git commit -m "fixed routes"
+git push -u origin main -f
+
+
+#!/bin/bash
+
+# Set your GitHub token as an environment variable
+export GITHUB_TOKEN="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"
+
+# Define the base URL of the FastAPI application
+BASE_URL="http://0.0.0.0:8080"
+
+# Define the search endpoint and the query parameter
+ENDPOINT="/search"
+QUERY="Deploy to Azure in:readme MicrosoftDocs Detect chnages on trusted ips"
+
+
+
+
+# Combine them into a full URL, properly handling spaces in the query
+FULL_URL="${BASE_URL}${ENDPOINT}?query=$(echo $QUERY | sed 's/ /%20/g')"
+
+# Use curl to send a GET request to the FastAPI search endpoint and save the response to response.json
+curl -X GET "${FULL_URL}" -H 'accept: application/json' >> response.json
+
+echo "Response saved to response.json"
