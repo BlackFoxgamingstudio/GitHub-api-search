@@ -2,6 +2,7 @@ import os
 import httpx
 from pydantic import BaseModel
 from fastapi import FastAPI, Depends, HTTPException
+from fastapi.middleware.cors import CORSMiddleware
 from typing import List
 from pydantic import BaseModel
 import uvicorn
@@ -12,6 +13,20 @@ from dependencies import get_http_client,verify_api_key
 
 app = FastAPI()
 
+allowed_origins = [
+    "https://blackfoxgamingstudio.github.io",
+    "http://localhost:8080",
+    # Add any other origins as needed
+]
+
+# Add CORSMiddleware to the application
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=allowed_origins,  # List of allowed origins
+    allow_credentials=True,
+    allow_methods=["*"],  # Allows all methods
+    allow_headers=["*"],  # Allows all headers
+)
 class Repo(BaseModel):
     name: str
     url: str
