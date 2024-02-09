@@ -1,3 +1,18 @@
+route 1 test: 
+curl -X GET "https://github-search-v5sx.onrender.com/search" \
+     -H "Content-Type: application/json" \
+     -H "Authorization: Bearer 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" \
+     -d '{"query":"repo:Azure-Samples BCDR \"DEV CONTAINERS\" in:readme"}'
+
+Route 2 Test:
+curl -X POST "http://localhost:8080/get-readme" \
+     -H "Content-Type: application/json" \
+     -H "Authorization: Bearer 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" \
+     -d '{"repo_url":"https://github.com/Azure-Samples/container-apps-store-api-microservice"}'
+
+
+
+Research Documentation
 @TextBooks.route('/home2', methods=['GET'])
 def home3():
 return render_template('TextBooks/search.html')
